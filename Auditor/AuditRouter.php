@@ -1,5 +1,7 @@
 <?php namespace Auditor;
 
+use WP_REST_Server;
+
 class AuditRouter
 {
     /**
